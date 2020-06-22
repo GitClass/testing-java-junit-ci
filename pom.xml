@@ -16,7 +16,7 @@
         <url>https://springframework.guru/</url>
     </organization>
 
-    <developers>
+    <developers> 
         <developer>
             <id>jt</id>
             <name>John Thompson</name>

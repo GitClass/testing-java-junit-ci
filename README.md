@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/gitclass/testing-java-junit5-ci.svg?style=svg)](https://circleci.com/gh/gitclass/testing-java-junit5-ci)
+[![CircleCI](https://circleci.com/gh/GitClass/testing-java-junit-ci.svg?style=svg)](https://circleci.com/gh/GitClass/testing-java-junit-ci)
 
 # Introduction to JUnit 5 with Maven - CI Example
 
